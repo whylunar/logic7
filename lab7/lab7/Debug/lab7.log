@@ -1,0 +1,6 @@
+﻿  lab7.cpp
+L:\Лабы2\Логика\7\lab7\lab7\lab7.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+L:\Лабы2\Логика\7\lab7\lab7\lab7.cpp(48,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+L:\Лабы2\Логика\7\lab7\lab7\lab7.cpp(69,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+L:\Лабы2\Логика\7\lab7\lab7\lab7.cpp(84,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab7.vcxproj -> L:\Лабы2\Логика\7\lab7\Debug\lab7.exe
